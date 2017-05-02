@@ -4,7 +4,7 @@ public class PilaMain {
 
 	public PilaMain() {
 		// TODO Auto-generated constructor stub
-		System.out.println("I'm batmaaaaan!");
+		System.out.println("I'm batman!");
 	}
 
 	

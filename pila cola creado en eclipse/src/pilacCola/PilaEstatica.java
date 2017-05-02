@@ -2,6 +2,7 @@ package pilacCola;
 
 
 public class PilaEstatica implements Pila {
+	
 	double[] vec;
 	int top;
 	public PilaEstatica(int cant) {
